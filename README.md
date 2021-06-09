@@ -1,2 +1,2 @@
 # EnglishChineseTranslationRobot
-Final Project of Natural Language Processing at UIBE
+Final Project of Natural Language Processing in Dec 2019
